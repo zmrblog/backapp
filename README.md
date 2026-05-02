@@ -1,5 +1,8 @@
 # backapp
 windows下备份软件数据的工具，使用deepseek v4 pro为基础写的代码，用gemini pro和glm 5v turbo优化完善，代码可能还有不完善的地方，需要的就自己继续修改完善。
+
+下载地址https://github.com/zmrblog/backapp/releases/tag/backsoftdata
+
 # Windows 软件数据备份工具 (AppBackupTool)
 一键备份 Windows 系统上已安装软件的配置数据、注册表项和程序文件，支持 AES-256-GCM 加密打包为 `.zmr` 文件，并提供完整的还原能力。
 
